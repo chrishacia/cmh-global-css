@@ -68,3 +68,4 @@ html[xmlns] .clearfix{display:block;}
 .shadow{-moz-box-shadow:3px 3px 4px #444;-webkit-box-shadow:3px 3px 4px #444;box-shadow:3px 3px 4px #444;-ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444')";filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444');}
 .transparent{filter:alpha(opacity=50);-khtml-opacity:0.5;-moz-opacity:0.5;opacity:0.5;}
 .circle{-moz-border-radius:50%;-webkit-border-radius:50%;-khtml-border-radius:50%;border-radius:50%;behavior:url(border-radius.htc);}
+.gradient{background:#999;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#cccccc',endColorstr='#000000');background:-webkit-gradient(linear, left top, left bottom, from(#ccc),to(#000));background:-moz-linear-gradient(top,#ccc,#000);}
